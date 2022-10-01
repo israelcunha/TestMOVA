@@ -1,0 +1,21 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "Project-MOVA",
+  "main": "index.js",
+  "scripts": {
+    "test": "run cypress",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "test",
+    "cypress",
+    "automation"
+  ],
+  "author": "Israel Cunha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
